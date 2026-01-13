@@ -34,7 +34,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API implementation in Go
 
 #### Starter Templates
-- [WorqNow Architecture](https://github.com/ibrahimpelumi6142/WorqNow) - FastAPI + MongoDB production template
+- [WorqNow Architecture](https://github.com/ibrahimpelumi6142/WhatsApp-AI-Job-Assistant-Bot) - FastAPI + MongoDB production template
 - [WhatsApp Cloud API Starter](https://github.com/ibrahimpelumi6142/WhatsApp-Cloud-API-Starter) - Quick start template
 
 ### Telegram
